@@ -658,3 +658,12 @@ HERO .hero {
         flex-direction: column
     }
 }
+.logo-img {
+  height: 32px;
+  width: auto;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
